@@ -1,0 +1,14 @@
+--- 
+title: "Ejercicios casi resueltos"
+author: "Angel Berihuete"
+date: "`r Sys.Date()`"
+output: bookdown::gitbook
+documentclass: book
+github-repo: AngelBerihuete/navales-ejercicios-casi-resuletos
+description: "Ejercicios para el Grado de Navales en formato de libro electrónico"
+---
+
+# Prerequisitos
+
+Este es un libro que intenta resolver, a la vez que mostrar, ejercicios típicos 
+de Estadística descriptiva para el Grado de Navales.
